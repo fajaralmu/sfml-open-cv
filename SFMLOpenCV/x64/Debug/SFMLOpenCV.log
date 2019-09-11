@@ -1,0 +1,10 @@
+﻿  main.cpp
+e:\visual studio 2015\projects\sfmlopencv\sfmlopencv\main.cpp(60): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\visual studio 2015\projects\sfmlopencv\sfmlopencv\main.cpp(93): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+e:\visual studio 2015\projects\sfmlopencv\sfmlopencv\main.cpp(103): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\visual studio 2015\projects\sfmlopencv\sfmlopencv\main.cpp(168): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\visual studio 2015\projects\sfmlopencv\sfmlopencv\main.cpp(170): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\visual studio 2015\projects\sfmlopencv\sfmlopencv\main.cpp(177): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\visual studio 2015\projects\sfmlopencv\sfmlopencv\main.cpp(190): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  SFMLOpenCV.vcxproj -> E:\Visual Studio 2015\Projects\SFMLOpenCV\SFMLOpenCV\x64\Debug\SFMLOpenCV.exe
+  SFMLOpenCV.vcxproj -> E:\Visual Studio 2015\Projects\SFMLOpenCV\SFMLOpenCV\x64\Debug\SFMLOpenCV.pdb (Full PDB)
